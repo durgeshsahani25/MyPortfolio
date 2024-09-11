@@ -1,4 +1,4 @@
-# Dopefolio 🔥
+# Portfolio 🔥
 
 ## Technologies used 🛠️
 
@@ -16,7 +16,7 @@ From your command line, first clone Dopefolio:
 $ git clone https://github.com/durgeshsahani25/MyPortfolio
 
 # Go into the repository
-$ cd dopefolio
+$ cd Durgesh's Portfolio
 
 # Remove current origin repository
 $ git remote remove origin
