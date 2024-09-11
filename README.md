@@ -13,7 +13,7 @@ From your command line, first clone Dopefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
+$ git clone https://github.com/durgeshsahani25/MyPortfolio
 
 # Go into the repository
 $ cd dopefolio
